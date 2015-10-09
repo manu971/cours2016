@@ -1,5 +1,5 @@
 <?php
-	
+	// modif in index
 	function senkei_session_start($name = '')
 	{
 		session_name($name);
